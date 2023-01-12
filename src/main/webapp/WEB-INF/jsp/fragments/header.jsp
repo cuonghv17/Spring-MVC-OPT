@@ -31,23 +31,23 @@
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item dropdown"><a
 					class="nav-link dropdown-toggle" href="#" role="button"
-					data-toggle="dropdown" aria-expanded="false"> Loai San </a>
+					data-toggle="dropdown" aria-expanded="false"> Toa Nha </a>
 					<div class="dropdown-menu">
 						<a class="dropdown-item"
-							href="${pageContext.request.contextPath}/loaiSan/addLoaiSan">Tao moi</a>
+							href="${pageContext.request.contextPath}/toaNha/add">Tao moi</a>
 						<div class="dropdown-divider"></div>
 						<a class="dropdown-item"
-							href="${pageContext.request.contextPath}/loaiSan/list">Danh Sach</a>
+							href="${pageContext.request.contextPath}/toaNha/list">Danh Sach</a>
 					</div></li>
 				<li class="nav-item dropdown active"><a
 					class="nav-link dropdown-toggle" href="#" role="button"
-					data-toggle="dropdown"> Dang ky thue san </a>
+					data-toggle="dropdown"> TT Phi Chung Cu </a>
 					<div class="dropdown-menu">
 						<a class="dropdown-item"
-							href="${pageContext.request.contextPath}/dangKyThueSan/add">Tao moi</a>
+							href="${pageContext.request.contextPath}/ttPhiTrungCu/add">Tao moi</a>
 						<div class="dropdown-divider"></div>
 						<a class="dropdown-item"
-							href="${pageContext.request.contextPath}/dangKyThueSan/list">Danh
+							href="${pageContext.request.contextPath}/ttPhiTrungCu/list">Danh
 							Sach</a>
 					</div></li>
 				

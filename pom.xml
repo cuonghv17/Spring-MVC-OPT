@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cuong.fa</groupId>
-	<artifactId>Spring-MVC-Final</artifactId>
+	<artifactId>Spring-MVC-CUONGHV17-Final</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<properties>
@@ -102,7 +102,7 @@
 
 	</dependencies>
 	<build>
-		<finalName>Spring-MVC-Final</finalName>
+		<finalName>Spring-MVC-CUONGHV17-Final</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
